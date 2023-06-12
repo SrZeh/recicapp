@@ -1,12 +1,16 @@
 -------------------
 *RecicApp!* 
 -------------------
-🙁 _*Problema:*_ falta 0e incentivo e educação na reciclagem do óleo de cozinha.
+🙁 _*Problema:*_ falta de incentivo e educação na reciclagem do óleo de cozinha.
+
 🙂 _*Nicho:*_ residências e recicladores de óleo 
+
 🎁 _*Proposta de Valor:*_ Reduzir a quantidade de óleo no meio ambiente incentivando a reciclagem,
 gerando retorno ao usuário e otimizando a logística para as empresas que recolhem o rejeito,
 criando assim uma cadeia inteligente e consciente de reciclagem.
+
 🧑‍💻👩‍💻 _*Equipe:*_ José Gabriel, Filipe Polnow e Guilherme Antunes.
+
 🛠️ _*Recursos/Tecnologias Utilizados:*_
 -------------------
 💡 *PMI I*
