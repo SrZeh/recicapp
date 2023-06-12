@@ -17,7 +17,8 @@ criando assim uma cadeia inteligente e consciente de reciclagem.
 
 🔗 _*url github:*_ https://github.com/SrZeh/recicapp.git
 
-🛬 _*url landpage:*_
+🛬 _*url landpage:*_ https://srzeh.github.io/recicapp/
+
 🤝 _*url Modelo Negócio (imagem):*_
 🗓️ _*url Product Backlog:*_
 -------------------
