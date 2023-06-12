@@ -15,7 +15,8 @@ criando assim uma cadeia inteligente e consciente de reciclagem.
 -------------------
 💡 *PMI I*
 
-🔗 _*url github:*_
+🔗 _*url github:*_ https://github.com/SrZeh/recicapp.git
+
 🛬 _*url landpage:*_
 🤝 _*url Modelo Negócio (imagem):*_
 🗓️ _*url Product Backlog:*_
